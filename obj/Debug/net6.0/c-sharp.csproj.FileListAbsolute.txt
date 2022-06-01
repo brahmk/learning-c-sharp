@@ -1,0 +1,15 @@
+/Users/bkelly/code/c-sharp/bin/Debug/net6.0/c-sharp
+/Users/bkelly/code/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/Users/bkelly/code/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/Users/bkelly/code/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/Users/bkelly/code/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/refint/c-sharp.dll
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
+/Users/bkelly/code/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
